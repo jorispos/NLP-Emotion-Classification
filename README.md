@@ -14,6 +14,8 @@ A 2024 University of Groningen group project classifying seven emotions in short
 4. Train a Complement Naive Bayes classifier across anger, disgust, fear, joy, neutral, sadness, and surprise.
 5. Evaluate the saved model on a held-out test set of 270 essays.
 
+The essays come from the [WASSA 2023 Shared Task](https://aclanthology.org/2023.wassa-1.44/) on empathy, emotion, and personality detection in reactions to news articles. The original task data was distributed through the [WASSA competition page](https://codalab.lisn.upsaclay.fr/competitions/11167).
+
 ## 📊 Results
 
 | Metric | Test result |
